@@ -7,6 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @Controller
 @Slf4j
+//777
 public class ExamController {
 	@RequestMapping("/")
 //	public void home() {
